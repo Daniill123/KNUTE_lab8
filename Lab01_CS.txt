@@ -1,1 +1,16 @@
+using System;
 
+namespace Info
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Прізвище та ім'я: Плотніков Данііл");
+            Console.WriteLine("Факультет: ФІТ (Факультет Інформаційних Технологій)");
+            Console.WriteLine("Спеціальніcть: ІПЗ (Інженерія Програмного Забезпечення)");
+            Console.WriteLine("Форма навчання: Денна");
+            Console.WriteLine("Група: 1-2");
+        }
+    }
+}
